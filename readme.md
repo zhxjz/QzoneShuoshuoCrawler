@@ -60,8 +60,12 @@
 
 ### 运行效果：(见res文件夹)
 
-![](\res\lmc.png)
+![](res\lmc.png)
 
-![](\res\self.png)
+![](res\self.png)
 
-![](\res\wrh.png)
+![](res\wrh.png)
+
+#### 已上传源码至个人github（https://github.com/zhxjz/QzoneShuoshuoCrawler/
+
+#### 有问题可发邮件至shuyepan@qq.com交流
