@@ -60,11 +60,11 @@
 
 ### 运行效果：(见res文件夹)
 
-![](res\lmc.png)
+![](https://github.com/zhxjz/QzoneShuoshuoCrawler/tree/master/res/lmc.png)
 
-![](res\self.png)
+![](https://github.com/zhxjz/QzoneShuoshuoCrawler/tree/master/res/self.png)
 
-![](res\wrh.png)
+![](https://github.com/zhxjz/QzoneShuoshuoCrawler/tree/master/res/wrh.png)
 
 #### 已上传源码至个人github（https://github.com/zhxjz/QzoneShuoshuoCrawler/
 
